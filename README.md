@@ -1,4 +1,4 @@
-# Test_Cases
+# Test_cases
 ![smoke_test_gmail](https://github.com/itsNur/Test_Cases/assets/70845085/fa6594f5-f248-4701-ae43-ba9147f562a3)
 ![gmail_registration](https://github.com/itsNur/Test_Cases/assets/70845085/c5158590-6852-482d-afc0-df97e7f388b0)
 ![scheduled_message](https://github.com/itsNur/Test_Cases/assets/70845085/33d8a37b-232c-4024-be2b-27a028706925)
