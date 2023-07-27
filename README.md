@@ -1,1 +1,11 @@
 # Test_Cases
+![smoke_test_gmail](https://github.com/itsNur/Test_Cases/assets/70845085/fa6594f5-f248-4701-ae43-ba9147f562a3)
+![gmail_registration](https://github.com/itsNur/Test_Cases/assets/70845085/c5158590-6852-482d-afc0-df97e7f388b0)
+![scheduled_message](https://github.com/itsNur/Test_Cases/assets/70845085/33d8a37b-232c-4024-be2b-27a028706925)
+![attaching_picture](https://github.com/itsNur/Test_Cases/assets/70845085/efeb4ffc-8ab9-4978-8542-fdee88b43864)
+![font_changing_gmail](https://github.com/itsNur/Test_Cases/assets/70845085/90551abd-af85-44b6-8175-6804f4f07c1e)
+![file_attaching_positive](https://github.com/itsNur/Test_Cases/assets/70845085/d8b90cb4-acec-411c-a6da-aadf2cb7f990)
+![file_attaching_negative](https://github.com/itsNur/Test_Cases/assets/70845085/3a6ddf03-b16f-4144-a248-298e10238a1a)
+![sending_without_addressee](https://github.com/itsNur/Test_Cases/assets/70845085/adea6f13-36b0-4c35-9edf-298fb7c25cd3)
+![invalid_addressee](https://github.com/itsNur/Test_Cases/assets/70845085/29e702f9-ab81-4510-8ec0-1f9c54cf776e)
+![empty_message](https://github.com/itsNur/Test_Cases/assets/70845085/25973957-48cf-4df0-832e-9c5938aa996c)
